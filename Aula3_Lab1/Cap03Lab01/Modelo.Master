@@ -1,0 +1,37 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Modelo.master.cs" Inherits="Cap03Lab01.Modelo" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="pagina">
+        <div id="cabecalho">
+            <h1>Meu WebSite</h1>
+        </div>
+
+        <div id="menu">
+            <a href="#">Início</a>
+            <a href="#">Quem Somos</a>
+            <a href="#">Entre em Contato</a>
+        </div>
+
+        <div id="conteudo">
+            <asp:ContentPlaceHolder ID="conteudoContentPlaceHolder" runat="server">
+        
+            </asp:ContentPlaceHolder>
+        </div>
+
+        <div id="rodape">
+            <p> Desenvolvido para o curso de ASP.NET - Adriano Santos</p>
+        </div>
+
+    </div>
+    </form>
+</body>
+</html>

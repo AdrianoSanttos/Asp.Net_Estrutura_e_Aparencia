@@ -1,0 +1,6 @@
+D:\Adriano\Análise de sistemas\Impacta\Curso_ASP NET 2013 com C# - Modulo I (online)\Aula 3 - Estrutura e aparência do Web Site\Aula_3_Lab\Aula3_Lab1\Cap03Lab01\bin\Cap03Lab01.dll.config
+D:\Adriano\Análise de sistemas\Impacta\Curso_ASP NET 2013 com C# - Modulo I (online)\Aula 3 - Estrutura e aparência do Web Site\Aula_3_Lab\Aula3_Lab1\Cap03Lab01\bin\Cap03Lab01.dll
+D:\Adriano\Análise de sistemas\Impacta\Curso_ASP NET 2013 com C# - Modulo I (online)\Aula 3 - Estrutura e aparência do Web Site\Aula_3_Lab\Aula3_Lab1\Cap03Lab01\bin\Cap03Lab01.pdb
+D:\Adriano\Análise de sistemas\Impacta\Curso_ASP NET 2013 com C# - Modulo I (online)\Aula 3 - Estrutura e aparência do Web Site\Aula_3_Lab\Aula3_Lab1\Cap03Lab01\obj\Debug\Cap03Lab01.csprojResolveAssemblyReference.cache
+D:\Adriano\Análise de sistemas\Impacta\Curso_ASP NET 2013 com C# - Modulo I (online)\Aula 3 - Estrutura e aparência do Web Site\Aula_3_Lab\Aula3_Lab1\Cap03Lab01\obj\Debug\Cap03Lab01.dll
+D:\Adriano\Análise de sistemas\Impacta\Curso_ASP NET 2013 com C# - Modulo I (online)\Aula 3 - Estrutura e aparência do Web Site\Aula_3_Lab\Aula3_Lab1\Cap03Lab01\obj\Debug\Cap03Lab01.pdb
